@@ -1,0 +1,198 @@
+[
+    {
+        "provincia": "Álava",
+        "codigo_postal": "01"
+    },
+    {
+        "provincia": "Albacete",
+        "codigo_postal": "02"
+    },
+    {
+        "provincia": "Alicante",
+        "codigo_postal": "03"
+    },
+    {
+        "provincia": "Almería",
+        "codigo_postal": "04"
+    },
+    {
+        "provincia": "Ávila",
+        "codigo_postal": "05"
+    },
+    {
+        "provincia": "Badajoz",
+        "codigo_postal": "06"
+    },
+    {
+        "provincia": "Barcelona",
+        "codigo_postal": "08"
+    },
+    {
+        "provincia": "Burgos",
+        "codigo_postal": "09"
+    },
+    {
+        "provincia": "Cáceres",
+        "codigo_postal": "10"
+    },
+    {
+        "provincia": "Cádiz",
+        "codigo_postal": "11"
+    },
+    {
+        "provincia": "Castellón",
+        "codigo_postal": "12"
+    },
+    {
+        "provincia": "Ceuta",
+        "codigo_postal": "51"
+    },
+    {
+        "provincia": "Ciudad Real",
+        "codigo_postal": "13"
+    },
+    {
+        "provincia": "Córdoba",
+        "codigo_postal": "14"
+    },
+    {
+        "provincia": "La Coruña",
+        "codigo_postal": "15"
+    },
+    {
+        "provincia": "Cuenca",
+        "codigo_postal": "16"
+    },
+    {
+        "provincia": "Girona",
+        "codigo_postal": "17"
+    },
+    {
+        "provincia": "Granada",
+        "codigo_postal": "18"
+    },
+    {
+        "provincia": "Guadalajara",
+        "codigo_postal": "19"
+    },
+    {
+        "provincia": "Huelva",
+        "codigo_postal": "21"
+    },
+    {
+        "provincia": "Huesca",
+        "codigo_postal": "22"
+    },
+    {
+        "provincia": "Islas Baleares",
+        "codigo_postal": "07"
+    },
+    {
+        "provincia": "Jaén",
+        "codigo_postal": "23"
+    },
+    {
+        "provincia": "La Rioja",
+        "codigo_postal": "26"
+    },
+    {
+        "provincia": "Las Palmas",
+        "codigo_postal": "35"
+    },
+    {
+        "provincia": "León",
+        "codigo_postal": "24"
+    },
+    {
+        "provincia": "Lleida",
+        "codigo_postal": "25"
+    },
+    {
+        "provincia": "Madrid",
+        "codigo_postal": "28"
+    },
+    {
+        "provincia": "Málaga",
+        "codigo_postal": "29"
+    },
+    {
+        "provincia": "Melilla",
+        "codigo_postal": "52"
+    },
+    {
+        "provincia": "Murcia",
+        "codigo_postal": "30"
+    },
+    {
+        "provincia": "Navarra",
+        "codigo_postal": "31"
+    },
+    {
+        "provincia": "Ourense",
+        "codigo_postal": "32"
+    },
+    {
+        "provincia": "Asturias",
+        "codigo_postal": "33"
+    },
+    {
+        "provincia": "Palencia",
+        "codigo_postal": "34"
+    },
+    {
+        "provincia": "Pontevedra",
+        "codigo_postal": "36"
+    },
+    {
+        "provincia": "Salamanca",
+        "codigo_postal": "37"
+    },
+    {
+        "provincia": "Santa Cruz de Tenerife",
+        "codigo_postal": "38"
+    },
+    {
+        "provincia": "Segovia",
+        "codigo_postal": "40"
+    },
+    {
+        "provincia": "Sevilla",
+        "codigo_postal": "41"
+    },
+    {
+        "provincia": "Soria",
+        "codigo_postal": "42"
+    },
+    {
+        "provincia": "Tarragona",
+        "codigo_postal": "43"
+    },
+    {
+        "provincia": "Teruel",
+        "codigo_postal": "44"
+    },
+    {
+        "provincia": "Toledo",
+        "codigo_postal": "45"
+    },
+    {
+        "provincia": "Valencia",
+        "codigo_postal": "46"
+    },
+    {
+        "provincia": "Valladolid",
+        "codigo_postal": "47"
+    },
+    {
+        "provincia": "Vizcaya",
+        "codigo_postal": "48"
+    },
+    {
+        "provincia": "Zamora",
+        "codigo_postal": "49"
+    },
+    {
+        "provincia": "Zaragoza",
+        "codigo_postal": "50"
+    }
+]
