@@ -1,7 +1,8 @@
 import json
 import requests
 import base64
-from api_config import API_KEY, API_SECRET
+from dotenv import load_dotenv
+import os
 
 def get_oauth_token():
     """Get the oath token for the Idealista API
@@ -11,7 +12,9 @@ def get_oauth_token():
     Return: 
         Token autehtication
     """
-    
+    load_dotenv()
+    API_KEY = os.getenv("IDEALISTA_API_KEY")
+    API_SECRET = os.getenv("IDEALISTA_API_SECRET")
     message = f'{API_KEY}:{API_SECRET}'
     auth = "Basic " + base64.b64encode(message.encode("ascii")).decode("ascii")
 

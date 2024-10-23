@@ -1,7 +1,7 @@
 from token_generate import get_oauth_token
 import requests
 import json
-import api_config
+import params_api
 
 
 def get_location_id(province):
@@ -48,16 +48,16 @@ def define_search_url(province):
     
     location_id = get_location_id(province)
     
-    url = api_config.base_url + api_config.country + '/search'
+    url = params_api.base_url + params_api.country + '/search'
     params = {
-        'operation': api_config.operation[2],
-        'maxItems': api_config.max_items,
-        'order': api_config.order,
+        'operation': params_api.operation[2],
+        'maxItems': params_api.max_items,
+        'order': params_api.order,
         'locationId': f'0-EU-ES-{location_id}',
-        'propertyType': api_config.property_type[1],
-        'sort': api_config.sort,
+        'propertyType': params_api.property_type[1],
+        'sort': params_api.sort,
         'numPage': 1,
-        'language': api_config.language
+        'language': params_api.language
     }
     return url, params
 
