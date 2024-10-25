@@ -10,6 +10,7 @@ El archivo CSV se guarda en el propio proyecto, en una carpeta llamada datasets 
 - [Configuración](#configuración)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
+- [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
 ## Tecnologías Utilizadas
@@ -71,6 +72,9 @@ python main.py
 - params_api.py: Define los parámetros para la API (base URL, operaciones, tipos de propiedad, etc.).
 - datasets/: Carpeta donde se almacenarán los archivos CSV resultantes.
 - codigos_postales_espana.json: Archivo JSON con los códigos postales por provincia.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar alguna funcionalidad, no dudes en crear un pull request o abrir un issue.
 
 ## Licencia
 **Este proyecto está bajo la Licencia MIT.**
